@@ -1,0 +1,1 @@
+# how-can-i-change-the-size-of-listctl-of-a-dialog-according-to-the-dialog-size-in-run-time-window-in-
